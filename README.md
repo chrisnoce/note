@@ -1,4 +1,4 @@
 note
 ====
 
-Abstract for Pure Data. Converts messages containing letter names and octaves to appropriate MIDI notes.
+**Note.pd** is an abstract for `Pure Data` that converts messages containing letter names and octaves to appropriate MIDI notes.
